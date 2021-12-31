@@ -1,2 +1,4 @@
 # Google App Engine generated folder
-appengine-generated/
+#appengine-generated/
+public/
+.DS_Store
